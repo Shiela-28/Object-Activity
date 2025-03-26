@@ -2,9 +2,9 @@
 
 // Define a car object
 let car = {
-    type: "Honda",
-    model: "Civic",
-    color: "Silver"
+    type: "Ford",
+    model: "Everest",
+    color: "Black"
 };
 
 // Check the data type of the car variable
